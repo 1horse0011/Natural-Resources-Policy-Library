@@ -1,118 +1,42 @@
-<h1 align="center">自然资源标准规范与法律法规库</h1>
+# 自然资源领域政策法规库
 
-<p align="center"><strong>Natural Resources Standards, Specifications, Laws & Regulations Library</strong></p>
+<p align="center"><strong>Natural Resources Policy Library</strong></p>
 
-<p align="center">面向自然资源、测绘地理信息及相关业务的标准规范与法律法规资料库</p>
+<p align="center">自然资源与林业和草原两大体系并列的政策法规与标准资料库</p>
 
-<p align="center">
-  <a href="./README.md"><b>🇨🇳 中文</b></a> ·
-  <a href="./README_EN.md">🇺🇸 English</a>
-</p>
+## 两大体系并列
 
-<p align="center">
-  <img src="https://img.shields.io/badge/技术标准-分类整理-2F6B3B" alt="技术标准">
-  <img src="https://img.shields.io/badge/法律法规-分级整理-2F5597" alt="法律法规">
-  <img src="https://img.shields.io/badge/资料库-持续更新-00897B" alt="持续更新">
-</p>
+| 代码 | 体系 | 内容 | 组织方式 |
+|------|------|------|----------|
+| A | 自然资源标准体系（2022） | 标准规范（12 个领域）与法律法规 | 标准按官方体系；法规按效力层级 → 业务领域/地区 |
+| B | 林业和草原标准体系 | 标准规范（12 个领域）与法律法规 | 标准按林草领域；法规按效力层级 → 林草领域 |
 
-<p align="center">
-  <a href="https://zhangyhrs.github.io/Natural-Resources-Standards-and-Specifications/"><b>🔎 技术标准检索</b></a> ·
-  <a href="https://zhangyhrs.github.io/Natural-Resources-Standards-and-Specifications/laws.html"><b>⚖️ 法律法规检索</b></a> ·
-  <a href="https://github.com/zhangyhrs/Natural-Resources-Standards-and-Specifications/actions/workflows/organize-documents.yml"><b>⚙️ 自动整理资料</b></a> ·
-  <a href="./待整理/"><b>📥 待整理</b></a>
-</p>
+分类表见 [分类表.md](./分类表.md)。每份文件归属：**体系（A/B）→ 领域（一级）→ 二级 → 三级**；另与六类文种（法条法规 / 政策条例 / 管理办法 / 通知文件 / 司法解释 / 表格）交叉。一份文件只进一个领域，其他相关领域只打标签，不重复归档。
 
----
+## 目录结构
 
-## 📚 仓库简介
+```
+├── 标准规范/            # A 体系：自然资源标准（12 个领域）
+├── 法律法规/            # A 体系：自然资源法律法规（按效力层级）
+├── 林业和草原/
+│   ├── 标准规范/        # B 体系：林草标准（12 个领域，SL2-00 等）
+│   └── 法律法规/        # B 体系：林草法律法规（按效力层级）
+├── 分类表.md            # A/B 双体系分类表
+├── 总索引.md            # 总索引（A 体系）
+└── 待整理/              # 新上传未分类的文件
+```
 
-自然资源业务涉及调查监测、国土空间规划、确权登记、用途管制、生态保护修复、土地、地质矿产、海洋、测绘地理信息等多个方向，实际工作中常常需要在不同标准、规范和政策文件之间反复查找。本仓库对常用技术标准、法律法规及相关政策文件进行集中整理，建立统一的分类目录、索引和在线检索页面，便于日常学习、项目实施和资料查阅。
+## 林草一侧的清单来源
 
-技术标准以自然资源部2022年《自然资源标准体系》为主要组织框架，同时收录相关国家标准、行业标准、地方标准、团体标准、企业标准及其他业务资料；法律法规按照法律效力层级进行归类，并结合业务领域、地区和发布机关进一步整理。仓库内容将持续补充、校核和优化。
+B 体系法规清单以《林业法律法规等文件汇编（2026版）》（历山保护区公众号，2026-06-29，来源林草知多少）为准，共 206 条 8 类：林草法律 13、林草相关法律 9、涉林草摘录 21、行政法规 18、部门规章 82、司法解释 13、林草名录 22、政策性文件 28。全文从全国人大国家法律法规数据库（flk.npc.gov.cn）、国务院政策文件库、国家林草局官网等官方渠道下载。
 
-## 🔎 在线检索
+B 体系标准清单以国家林草局科技司《林业和草原领域新型地方标准体系汇编（2022版）》及 31 个林草领域标准体系为准；标准全文查询入口见 [林业和草原/标准规范/README.md](./林业和草原/标准规范/README.md)。
 
-仓库提供两个独立检索页面，可直接输入名称、标准号或关键词，也可通过分类按钮组合筛选。
+## 使用说明
 
-| 检索页面 | 主要筛选条件 | 在线入口 |
-|---|---|---|
-| **🔎 技术标准检索** | 标准层级、标准性质、资料状态、标准体系、专业分类 | **[进入技术标准检索 →](https://zhangyhrs.github.io/Natural-Resources-Standards-and-Specifications/)** |
-| **⚖️ 法律法规检索** | 法规名称、法律效力层级、业务领域或地区、发布机关 | **[进入法律法规检索 →](https://zhangyhrs.github.io/Natural-Resources-Standards-and-Specifications/laws.html)** |
+本库主要用于技术学习、资料整理和工作查阅。标准、规范、法律法规及相关文件的著作权和传播权归原发布机构或权利人所有；仓库中的分类、资料状态和整理结果仅用于检索与管理，不作为现行有效性、法律效力或适用范围的最终判定依据，具体应以官方发布信息为准。
 
-**技术标准检索**支持国家标准、行业标准、地方标准、团体标准、企业标准及其他资料统一检索，并可直接下载已收录文档。对于无编号资料、征求意见稿、草案、试行稿等，通过“资料状态”单独区分。
+## 状态
 
-**法律法规检索**按照法律效力层级、业务领域或地区、发布机关等条件进行筛选，并可直接下载对应文件。两个检索页面保持统一风格，可相互切换。
-
-<p align="center">
-  <a href="https://zhangyhrs.github.io/Natural-Resources-Standards-and-Specifications/"><b>🔎 打开技术标准检索页面</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://zhangyhrs.github.io/Natural-Resources-Standards-and-Specifications/laws.html"><b>⚖️ 打开法律法规检索页面</b></a>
-</p>
-
-## 🗂️ 标准分类体系
-
-技术标准统一存放在 [`标准规范`](./标准规范/) 目录，主要按照自然资源部《自然资源标准体系（2022）》组织：
-
-| 代码 | 子体系 | 代码 | 子体系 |
-|---|---|---|---|
-| TY1-00 | 基础通用 | DJ2-00 | 自然资源调查监测 |
-| GH2-00 | 国土空间规划 | ZC2-00 | 自然资源确权登记与权益 |
-| LY2-00 | 自然资源开发利用 | DC2-00 | 用途管制与督察执法 |
-| ST2-00 | 国土空间生态保护与修复 | TD2-00 | 土地资源 |
-| DZ2-00 | 地质与矿产资源 | HY2-00 | 海洋 |
-| XX2-00 | 自然资源信息化 | CH2-00 | 测绘地理信息 |
-
-在上述业务体系基础上，再结合标准层级、专业方向、地区和资料状态进行细分。例如地方标准可进一步按省级地区归档，避免与国家标准、行业标准混在同一层级。
-
-## ⚖️ 法律法规体系
-
-法律法规统一按“**法律效力层级 → 业务领域或地区**”组织，一级分类采用法律效力层级：
-
-| 分类 | 效力层级 | 分类 | 效力层级 |
-|---|---|---|---|
-| 01 | 宪法 | 05 | 地方性法规 |
-| 02 | 法律 | 06 | 地方政府规章 |
-| 03 | 行政法规 | 07 | 司法解释 |
-| 04 | 部门规章 | 08 | 规范性文件与政策文件 |
-
-在上述效力层级基础上，再结合业务领域、地区和发布机关进行细分。全国性文件优先按**自然资源与土地、测绘地理信息、国土空间规划、矿产与生态资源、农业农村、房地产与住房、招标投标与政府采购、劳动与社会保障、航空与无人机**等业务方向归类；地方性法规和地方政府规章优先按**省级地区**归档，规范性文件与政策文件可进一步按**发布机关**细分。
-
-## ⚙️ 一键自动整理
-
-新上传的 PDF、DOC、DOCX 可统一放入 [`待整理`](./待整理/) 根目录，然后进入 **[自动整理资料](https://github.com/zhangyhrs/Natural-Resources-Standards-and-Specifications/actions/workflows/organize-documents.yml)**，点击 **Run workflow** 即可执行。
-
-自动整理采用“**规则识别 + 置信度控制 + 人工兜底**”方式：能够明确判断的文件自动规范名称并归入正式目录；与正式库内容完全一致的文件移入 `待整理/重复文件`；专业方向或法律效力层级无法可靠判断的文件移入 `待整理/待人工确认`，不强行归档。每次运行都会在 `整理报告` 目录生成处理报告。
-
-“正式整理”完成后会自动重新生成 `docs/standards.json`、`docs/laws.json`、`catalog_auto.csv` 和自动文件清单，并直接部署 GitHub Pages，因此新增资料可同步进入在线检索。“仅预览”模式只生成报告，不移动文件。
-
-> 当前自动归档优先覆盖技术标准和技术资料；疑似法律法规在效力层级无法可靠自动判断时进入人工确认，以避免误分类。
-
-## 🔄 更新与维护
-
-仓库通过脚本扫描标准规范和法律法规目录，并生成检索数据；GitHub Pages 随仓库更新自动部署。人工维护的 [标准目录](./标准目录.md)、[法律法规目录](./法律法规索引.md) 和 [总索引](./总索引.md) 用于快速浏览分类结构。
-
-新上传但尚未完成分类或校核的文件统一放入 [`待整理`](./待整理/)；完成识别后再归入正式目录。对于疑似重复、版本不明、无正式编号或状态待核的资料，优先保留并单独标注，不直接删除。
-
-## ⚠️ 使用说明
-
-本仓库主要用于技术学习、资料整理和工作查阅。标准、规范、法律法规及相关文件的著作权和传播权归原发布机构或权利人所有；仓库中的分类、资料状态和整理结果仅用于检索与管理，不作为现行有效性、法律效力或适用范围的最终判定依据，具体应以官方发布信息为准。
-
-## 📬 关注与交流
-
-<table align="center">
-  <tr>
-    <th width="33%">WeChat Official Account<br>微信公众号：测绘地信</th>
-    <th width="33%">WeChat Mini Program<br>微信小程序：测绘地信</th>
-    <th width="33%">Knowledge Planet<br>知识星球：测绘地理信息共享中心</th>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-official-account.png" alt="微信公众号：测绘地信" height="150"></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/wechat-mini-program.jpg" alt="微信小程序：测绘地信" height="150"></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/zhangyhrs/GeoStar-Selector-QGIS/main/assets/knowledge-planet.jpg" alt="知识星球：测绘地理信息共享中心" height="150"></td>
-  </tr>
-</table>
-
----
-
-<p align="center">持续整理 · 持续补充 · 欢迎 Star</p>
-<p align="center">Maintained by <a href="https://github.com/zhangyhrs">Zhang Y.H.</a></p>
+- A 体系：已收录 171 个文件（85 标准 + 86 法规）。
+- B 体系：目录骨架已建；法规全文按 206 条清单陆续补入；标准按林草领域标准体系陆续补入。
