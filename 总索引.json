@@ -5,15 +5,17 @@
     "a_total": 172,
     "a_forestry_related": 16,
     "b_downloaded_entries": 205,
-    "b_unique_files": 202,
-    "b_failed": 1,
+    "b_unique_files": 203,
+    "b_failed": 0,
+    "b_uploaded": 76,
+    "b_pending": 127,
     "b_by_folder": {
       "法律法规/01-法律": 13,
       "法律法规/07-相关法律摘录": 30,
       "法律法规/02-行政法规": 17,
       "法律法规/03-部门规章": 82,
       "法律法规/04-司法解释": 13,
-      "法律法规/06-名录": 21,
+      "法律法规/06-名录": 22,
       "法律法规/05-政策性文件": 26
     },
     "duplicates_in_list": [
@@ -22,14 +24,7 @@
       "国家林业和草原局关于印发《集体林地经营权流转管理办法》的通知（20250401，与清单内另一条重复，同一文件）"
     ]
   },
-  "failed": [
-    {
-      "title": "中华人民共和国植物新品种保护名录（林草部分）（第八批）",
-      "category": "林草名录",
-      "date": "20211201",
-      "note": "RuntimeError: curl exit 52: "
-    }
-  ],
+  "failed": [],
   "files": [
     {
       "system": "A",
@@ -1418,7 +1413,8 @@
       "size": 28217,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f2104531f1774",
-      "matched_title": "中华人民共和国农村土地承包法"
+      "matched_title": "中华人民共和国农村土地承包法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1431,7 +1427,8 @@
       "size": 33012,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080817703add2017737395a973e31",
-      "matched_title": "中华人民共和国动物防疫法"
+      "matched_title": "中华人民共和国动物防疫法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1444,7 +1441,8 @@
       "size": 24120,
       "source": "全国人大法律法规数据库",
       "npc_id": "f3f7217464834db5b5d4f563f40c6dec",
-      "matched_title": "中华人民共和国国家公园法"
+      "matched_title": "中华人民共和国国家公园法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1457,7 +1455,8 @@
       "size": 28753,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80808171e9e18101727e5543627f52",
-      "matched_title": "中华人民共和国森林法"
+      "matched_title": "中华人民共和国森林法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1470,7 +1469,8 @@
       "size": 25321,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817d99a651017deb6fd24533af",
-      "matched_title": "中华人民共和国湿地保护法"
+      "matched_title": "中华人民共和国湿地保护法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1483,7 +1483,8 @@
       "size": 243471,
       "source": "全国人大法律法规数据库",
       "npc_id": "96630961659b4d87a65b7b1c595097fa",
-      "matched_title": "中华人民共和国生态环境法典"
+      "matched_title": "中华人民共和国生态环境法典",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1496,7 +1497,8 @@
       "size": 37869,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817f072a2e017f0b66fb640166",
-      "matched_title": "中华人民共和国种子法"
+      "matched_title": "中华人民共和国种子法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1509,7 +1511,8 @@
       "size": 25282,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817ab22b8a017abd5ad286057a",
-      "matched_title": "中华人民共和国草原法"
+      "matched_title": "中华人民共和国草原法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1522,7 +1525,8 @@
       "size": 20904,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf6ab3604e7",
-      "matched_title": "中华人民共和国进出境动植物检疫法"
+      "matched_title": "中华人民共和国进出境动植物检疫法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1535,7 +1539,8 @@
       "size": 27060,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法"
+      "matched_title": "中华人民共和国野生动物保护法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1548,7 +1553,8 @@
       "size": 22839,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f1cece2851197",
-      "matched_title": "中华人民共和国防沙治沙法"
+      "matched_title": "中华人民共和国防沙治沙法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1561,7 +1567,8 @@
       "size": 27020,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181865ee3360187bdb3430e764c",
-      "matched_title": "中华人民共和国青藏高原生态保护法"
+      "matched_title": "中华人民共和国青藏高原生态保护法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1574,7 +1581,8 @@
       "size": 17857,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080817703add2017719380c951fbe",
-      "matched_title": "全国人民代表大会常务委员会关于全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全的决定"
+      "matched_title": "全国人民代表大会常务委员会关于全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全的决定",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1587,7 +1595,8 @@
       "size": 28879,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f410a7d6612f4",
-      "matched_title": "中华人民共和国森林法实施条例"
+      "matched_title": "中华人民共和国森林法实施条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1600,7 +1609,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1613,7 +1623,8 @@
       "size": 25783,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f41106c8f14a3",
-      "matched_title": "中华人民共和国水生野生动物保护实施条例"
+      "matched_title": "中华人民共和国水生野生动物保护实施条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1626,7 +1637,8 @@
       "size": 18799,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4135f8461d3a",
-      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例"
+      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1639,7 +1651,8 @@
       "size": 25290,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819c230fa1019c4551f8c8511b",
-      "matched_title": "中华人民共和国自然保护区条例"
+      "matched_title": "中华人民共和国自然保护区条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1652,7 +1665,8 @@
       "size": 24398,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e9784016f423225340323",
-      "matched_title": "中华人民共和国野生植物保护条例"
+      "matched_title": "中华人民共和国野生植物保护条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1665,7 +1679,8 @@
       "size": 27136,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40e1456008e8",
-      "matched_title": "中华人民共和国陆生野生动物保护实施条例"
+      "matched_title": "中华人民共和国陆生野生动物保护实施条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1678,7 +1693,8 @@
       "size": 22206,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181927f0e7b0194df911b13227e",
-      "matched_title": "古树名木保护条例"
+      "matched_title": "古树名木保护条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1691,7 +1707,8 @@
       "size": 20097,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff541ea01a0ae6370e43ad3",
-      "matched_title": "城市绿化条例"
+      "matched_title": "城市绿化条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1704,7 +1721,8 @@
       "size": 20934,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54a6401a0ae6830f323b0",
-      "matched_title": "森林病虫害防治条例"
+      "matched_title": "森林病虫害防治条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1717,7 +1735,8 @@
       "size": 29130,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4154c58a2263",
-      "matched_title": "森林防火条例"
+      "matched_title": "森林防火条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1730,7 +1749,8 @@
       "size": 19810,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a0ae6a736b2ae6",
-      "matched_title": "植物检疫条例"
+      "matched_title": "植物检疫条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1743,7 +1763,8 @@
       "size": 20183,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181900f8e94019010b54dbe0865",
-      "matched_title": "生态保护补偿条例"
+      "matched_title": "生态保护补偿条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1756,7 +1777,8 @@
       "size": 28600,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f41131cf11569",
-      "matched_title": "草原防火条例"
+      "matched_title": "草原防火条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1769,7 +1791,8 @@
       "size": 25311,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f425a4b32054c",
-      "matched_title": "退耕还林条例"
+      "matched_title": "退耕还林条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1782,7 +1805,8 @@
       "size": 24069,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f412cffc31b4a",
-      "matched_title": "重大动物疫情应急条例"
+      "matched_title": "重大动物疫情应急条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1795,7 +1819,8 @@
       "size": 21782,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a0ae67585e2a9c",
-      "matched_title": "风景名胜区条例"
+      "matched_title": "风景名胜区条例",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1808,7 +1833,8 @@
       "size": 94924,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法"
+      "matched_title": "阳泉市住宅专项维修资金管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1821,7 +1847,8 @@
       "size": 17901,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819b697220019b881b6cfa785c",
-      "matched_title": "湘西世界地质公园保护条例"
+      "matched_title": "湘西世界地质公园保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1834,7 +1861,8 @@
       "size": 18642,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf5d73701a9",
-      "matched_title": "中国人民解放军军官军衔条例"
+      "matched_title": "中国人民解放军军官军衔条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1847,7 +1875,8 @@
       "size": 23561,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40e58a2d09c3",
-      "matched_title": "中央储备粮管理条例"
+      "matched_title": "中央储备粮管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1860,7 +1889,8 @@
       "size": 22234,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40f1f2c60d2e",
-      "matched_title": "中药品种保护条例"
+      "matched_title": "中药品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1873,7 +1903,8 @@
       "size": 33401,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f20e4396a16fb",
-      "matched_title": "中华人民共和国公务员法"
+      "matched_title": "中华人民共和国公务员法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1886,7 +1917,8 @@
       "size": 29539,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818178efe3620179206d421428ce",
-      "matched_title": "中华人民共和国乡村振兴促进法"
+      "matched_title": "中华人民共和国乡村振兴促进法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1899,7 +1931,8 @@
       "size": 19426,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a05c07de3c5ac8",
-      "matched_title": "湖南省林业有害生物防治检疫条例"
+      "matched_title": "湖南省林业有害生物防治检疫条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1912,7 +1945,8 @@
       "size": 219150,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f21a161016f31a49bc615db",
-      "matched_title": "海东市全民义务植树条例"
+      "matched_title": "海东市全民义务植树条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1925,7 +1959,8 @@
       "size": 30773,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf60d3f0267",
-      "matched_title": "中华人民共和国民族区域自治法"
+      "matched_title": "中华人民共和国民族区域自治法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1938,7 +1973,8 @@
       "size": 18663,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40d5cf830663",
-      "matched_title": "国务院关于开展全民义务植树运动的实施办法"
+      "matched_title": "国务院关于开展全民义务植树运动的实施办法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1951,7 +1987,8 @@
       "size": 21254,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f4205c511030c",
-      "matched_title": "国家重点建设项目管理办法"
+      "matched_title": "国家重点建设项目管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1964,7 +2001,8 @@
       "size": 24120,
       "source": "全国人大法律法规数据库",
       "npc_id": "f3f7217464834db5b5d4f563f40c6dec",
-      "matched_title": "中华人民共和国国家公园法"
+      "matched_title": "中华人民共和国国家公园法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1977,7 +2015,8 @@
       "size": 15472,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf5a6740055",
-      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议"
+      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -1990,7 +2029,8 @@
       "size": 72391,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816fbc57c10170a4b1aad33c05",
-      "matched_title": "深圳经济特区国家自主创新示范区条例"
+      "matched_title": "深圳经济特区国家自主创新示范区条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2003,7 +2043,8 @@
       "size": 24904,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819aedd494019afbdbef3a5483",
-      "matched_title": "西藏自治区国家固边兴边富民行动示范区创建条例"
+      "matched_title": "西藏自治区国家固边兴边富民行动示范区创建条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2016,7 +2057,8 @@
       "size": 22785,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40f529ca0e1a",
-      "matched_title": "军用标准化管理办法"
+      "matched_title": "军用标准化管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2029,7 +2071,8 @@
       "size": 18102,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b83ab0197cf1bc33e771b",
-      "matched_title": "湖州市乡镇街道行政规范性文件备案审查规定"
+      "matched_title": "湖州市乡镇街道行政规范性文件备案审查规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2042,7 +2085,8 @@
       "size": 32971,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f216bf96b1ae6",
-      "matched_title": "中华人民共和国行政许可法"
+      "matched_title": "中华人民共和国行政许可法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2055,7 +2099,8 @@
       "size": 20697,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a040d37cb345b9",
-      "matched_title": "湖北省林业管理办法"
+      "matched_title": "湖北省林业管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2068,7 +2113,8 @@
       "size": 21254,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f4205c511030c",
-      "matched_title": "国家重点建设项目管理办法"
+      "matched_title": "国家重点建设项目管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2081,7 +2127,8 @@
       "size": 15762,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf62dde02fd",
-      "matched_title": "反分裂国家法"
+      "matched_title": "反分裂国家法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2094,7 +2141,8 @@
       "size": 26216,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc6127779301612880e1383a53",
-      "matched_title": "湖南省土地利用总体规划条例"
+      "matched_title": "湖南省土地利用总体规划条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2107,7 +2155,8 @@
       "size": 23609,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816eb1afb8016ec094fc4f0324",
-      "matched_title": "连城国家级自然保护区条例"
+      "matched_title": "连城国家级自然保护区条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2120,7 +2169,8 @@
       "size": 15762,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf62dde02fd",
-      "matched_title": "反分裂国家法"
+      "matched_title": "反分裂国家法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2133,7 +2183,8 @@
       "size": 25775,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40f93dba0f16",
-      "matched_title": "危险废物经营许可证管理办法"
+      "matched_title": "危险废物经营许可证管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2146,7 +2197,8 @@
       "size": 33687,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c90e5ba6200715a0163ecac47ca6da1",
-      "matched_title": "山东省国有林场条例"
+      "matched_title": "山东省国有林场条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2159,7 +2211,8 @@
       "size": 17652,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a05702cc15382d",
-      "matched_title": "通辽市沙化土地治理条例"
+      "matched_title": "通辽市沙化土地治理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2172,7 +2225,8 @@
       "size": 23609,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816eb1afb8016ec094fc4f0324",
-      "matched_title": "连城国家级自然保护区条例"
+      "matched_title": "连城国家级自然保护区条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2185,7 +2239,8 @@
       "size": 25617,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818179f5dd9f0179f8a44bec063e",
-      "matched_title": "中华人民共和国军事设施保护法"
+      "matched_title": "中华人民共和国军事设施保护法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2198,7 +2253,8 @@
       "size": 19774,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181927f0e7b01966ac96ecb6b0f",
-      "matched_title": "海南自由贸易港防控外来物种入侵若干规定"
+      "matched_title": "海南自由贸易港防控外来物种入侵若干规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2211,7 +2267,8 @@
       "size": 18027,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f41032dff1161",
-      "matched_title": "森林和野生动物类型自然保护区管理办法"
+      "matched_title": "森林和野生动物类型自然保护区管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2224,7 +2281,8 @@
       "size": 22446,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80808172b5f24f01732d5ff94239d6",
-      "matched_title": "滨州市工程建设项目并联审批管理规定"
+      "matched_title": "滨州市工程建设项目并联审批管理规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2237,7 +2295,8 @@
       "size": 22446,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80808172b5f24f01732d5ff94239d6",
-      "matched_title": "滨州市工程建设项目并联审批管理规定"
+      "matched_title": "滨州市工程建设项目并联审批管理规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2250,7 +2309,8 @@
       "size": 23781,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f412348ab195e",
-      "matched_title": "农业转基因生物安全管理条例"
+      "matched_title": "农业转基因生物安全管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2263,7 +2323,8 @@
       "size": 16195,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf5c9fd014f",
-      "matched_title": "中华人民共和国领海及毗连区法"
+      "matched_title": "中华人民共和国领海及毗连区法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2276,7 +2337,8 @@
       "size": 20107,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f1d5318af145e",
-      "matched_title": "中华人民共和国外商投资法"
+      "matched_title": "中华人民共和国外商投资法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2289,7 +2351,8 @@
       "size": 21401,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818c24df58018c67bc129369c9",
-      "matched_title": "福州市古树名木保护管理办法"
+      "matched_title": "福州市古树名木保护管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2302,7 +2365,8 @@
       "size": 31744,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80808177e75f880177f74992fb0f5b",
-      "matched_title": "云浮市石材生产加工污染防治条例"
+      "matched_title": "云浮市石材生产加工污染防治条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2315,7 +2379,8 @@
       "size": 22785,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f40f529ca0e1a",
-      "matched_title": "军用标准化管理办法"
+      "matched_title": "军用标准化管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2328,7 +2393,8 @@
       "size": 25282,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817ab22b8a017abd5ad286057a",
-      "matched_title": "中华人民共和国草原法"
+      "matched_title": "中华人民共和国草原法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2341,7 +2407,8 @@
       "size": 20697,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a040d37cb345b9",
-      "matched_title": "湖北省林业管理办法"
+      "matched_title": "湖北省林业管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2354,7 +2421,8 @@
       "size": 94924,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法"
+      "matched_title": "阳泉市住宅专项维修资金管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2367,7 +2435,8 @@
       "size": 94924,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法"
+      "matched_title": "阳泉市住宅专项维修资金管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2380,7 +2449,8 @@
       "size": 94924,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法"
+      "matched_title": "阳泉市住宅专项维修资金管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2393,7 +2463,8 @@
       "size": 18579,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff541ea01a0478de8c5076a",
-      "matched_title": "湖南省林业条例"
+      "matched_title": "湖南省林业条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2406,7 +2477,8 @@
       "size": 20328,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819b697249019bc0b370d50de0",
-      "matched_title": "行政执法监督条例"
+      "matched_title": "行政执法监督条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2419,7 +2491,8 @@
       "size": 28945,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc61277793016127f1a2333170",
-      "matched_title": "福建省林木林地权属争议处理条例"
+      "matched_title": "福建省林木林地权属争议处理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2432,7 +2505,8 @@
       "size": 17974,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818199e72d6e019a14272f4b6784",
-      "matched_title": "山西省林木种子条例"
+      "matched_title": "山西省林木种子条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2445,7 +2519,8 @@
       "size": 17974,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818199e72d6e019a14272f4b6784",
-      "matched_title": "山西省林木种子条例"
+      "matched_title": "山西省林木种子条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2458,7 +2533,8 @@
       "size": 19607,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818199e72c4f0199f11bac6c2383",
-      "matched_title": "海东市高原特色农作物种质资源保护条例"
+      "matched_title": "海东市高原特色农作物种质资源保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2471,7 +2547,8 @@
       "size": 20565,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818f197cf001905e50cfa1359f",
-      "matched_title": "中华人民共和国农业技术推广法"
+      "matched_title": "中华人民共和国农业技术推广法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2484,7 +2561,8 @@
       "size": 15981,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf634330311",
-      "matched_title": "中华人民共和国外国中央银行财产司法强制措施豁免法"
+      "matched_title": "中华人民共和国外国中央银行财产司法强制措施豁免法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2497,7 +2575,8 @@
       "size": 19465,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081777d07c50177853023f40b05",
-      "matched_title": "政府督查工作条例"
+      "matched_title": "政府督查工作条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2510,7 +2589,8 @@
       "size": 18027,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f41032dff1161",
-      "matched_title": "森林和野生动物类型自然保护区管理办法"
+      "matched_title": "森林和野生动物类型自然保护区管理办法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2523,7 +2603,8 @@
       "size": 22387,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc6127779301612856892015df",
-      "matched_title": "济南市森林资源保护管理办法"
+      "matched_title": "济南市森林资源保护管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2536,7 +2617,8 @@
       "size": 24044,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f414d6b7620fb",
-      "matched_title": "森林采伐更新管理办法"
+      "matched_title": "森林采伐更新管理办法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2549,7 +2631,8 @@
       "size": 22545,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf808be08cf",
-      "matched_title": "中华人民共和国资产评估法"
+      "matched_title": "中华人民共和国资产评估法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2562,7 +2645,8 @@
       "size": 25321,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817d99a651017deb6fd24533af",
-      "matched_title": "中华人民共和国湿地保护法"
+      "matched_title": "中华人民共和国湿地保护法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2575,7 +2659,8 @@
       "size": 21061,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4151b6f121d7",
-      "matched_title": "渔业资源增殖保护费征收使用办法"
+      "matched_title": "渔业资源增殖保护费征收使用办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2588,7 +2673,8 @@
       "size": 18140,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819e48b3aa019e5cea0cf93a9d",
-      "matched_title": "清原满族自治县龙胆草产业发展促进条例"
+      "matched_title": "清原满族自治县龙胆草产业发展促进条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2601,7 +2687,8 @@
       "size": 57856,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818181951d9b0181a8bc79664369",
-      "matched_title": "海南省生态保护红线管理规定"
+      "matched_title": "海南省生态保护红线管理规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2614,7 +2701,8 @@
       "size": 243471,
       "source": "全国人大法律法规数据库",
       "npc_id": "96630961659b4d87a65b7b1c595097fa",
-      "matched_title": "中华人民共和国生态环境法典"
+      "matched_title": "中华人民共和国生态环境法典",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2627,7 +2715,8 @@
       "size": 17674,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a084109b2e20d4",
-      "matched_title": "南通市生态环境损害赔偿程序规定"
+      "matched_title": "南通市生态环境损害赔偿程序规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2640,7 +2729,8 @@
       "size": 94924,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法"
+      "matched_title": "阳泉市住宅专项维修资金管理办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2653,7 +2743,8 @@
       "size": 19733,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54a6401a0ae8df6842641",
-      "matched_title": "碳排放权交易管理暂行条例"
+      "matched_title": "碳排放权交易管理暂行条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2666,7 +2757,8 @@
       "size": 33787,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818d6a424b01905f13edba2efb",
-      "matched_title": "中华人民共和国突发事件应对法"
+      "matched_title": "中华人民共和国突发事件应对法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2679,7 +2771,8 @@
       "size": 28217,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f2104531f1774",
-      "matched_title": "中华人民共和国农村土地承包法"
+      "matched_title": "中华人民共和国农村土地承包法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2692,7 +2785,8 @@
       "size": 15472,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf5a6740055",
-      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议"
+      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2705,7 +2799,8 @@
       "size": 19102,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f41480b1e1ffc",
-      "matched_title": "仲裁委员会登记暂行办法"
+      "matched_title": "仲裁委员会登记暂行办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2718,7 +2813,8 @@
       "size": 23037,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf7e3540843",
-      "matched_title": "中华人民共和国促进科技成果转化法"
+      "matched_title": "中华人民共和国促进科技成果转化法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2731,7 +2827,8 @@
       "size": 23446,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f41197132170f",
-      "matched_title": "征信业管理条例"
+      "matched_title": "征信业管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2744,7 +2841,8 @@
       "size": 25311,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f425a4b32054c",
-      "matched_title": "退耕还林条例"
+      "matched_title": "退耕还林条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2757,7 +2855,8 @@
       "size": 18799,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4135f8461d3a",
-      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例"
+      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2770,7 +2869,8 @@
       "size": 22545,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf808be08cf",
-      "matched_title": "中华人民共和国资产评估法"
+      "matched_title": "中华人民共和国资产评估法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2783,7 +2883,8 @@
       "size": 27060,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法"
+      "matched_title": "中华人民共和国野生动物保护法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2796,7 +2897,8 @@
       "size": 27060,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法"
+      "matched_title": "中华人民共和国野生动物保护法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2809,7 +2911,8 @@
       "size": 48743,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80808177e75f880178f3af1d8f3b55",
-      "matched_title": "青海省鼠疫防控条例"
+      "matched_title": "青海省鼠疫防控条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2822,7 +2925,8 @@
       "size": 20406,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4145fce81fa4",
-      "matched_title": "仲裁委员会仲裁收费办法"
+      "matched_title": "仲裁委员会仲裁收费办法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2835,7 +2939,8 @@
       "size": 15472,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf5a6740055",
-      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议"
+      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2848,7 +2953,8 @@
       "size": 27759,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818d6a463901905f2cc2c12d3b",
-      "matched_title": "中华人民共和国农村集体经济组织法"
+      "matched_title": "中华人民共和国农村集体经济组织法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2861,7 +2967,8 @@
       "size": 22846,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817a389105017a5034137d131c",
-      "matched_title": "安徽省林权管理条例"
+      "matched_title": "安徽省林权管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2874,7 +2981,8 @@
       "size": 20299,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf876430a91",
-      "matched_title": "中华人民共和国标准化法"
+      "matched_title": "中华人民共和国标准化法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -2887,7 +2995,8 @@
       "size": 17326,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e45ffbbe41015ffc5caeb80af7",
-      "matched_title": "最高人民检察院关于对林业主管部门工作人员在发放林木采伐许可证之外滥用职权玩忽职守致使森林遭受严重破坏的行为适用法律问题的批复"
+      "matched_title": "最高人民检察院关于对林业主管部门工作人员在发放林木采伐许可证之外滥用职权玩忽职守致使森林遭受严重破坏的行为适用法律问题的批复",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2900,7 +3009,8 @@
       "size": 21766,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818181cdceb30181d806737d4083",
-      "matched_title": "最高人民法院、最高人民检察院关于办理破坏野生动物资源刑事案件适用法律若干问题的解释"
+      "matched_title": "最高人民法院、最高人民检察院关于办理破坏野生动物资源刑事案件适用法律若干问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2913,7 +3023,8 @@
       "size": 26509,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817bdd7f8c017be343d14e35cc",
-      "matched_title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》 确定罪名的补充规定（七）"
+      "matched_title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》 确定罪名的补充规定（七）",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2926,7 +3037,8 @@
       "size": 23341,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081777d07c50177ccd92ce05364",
-      "matched_title": "最高人民法院 最高人民检察院关于适用《中华人民共和国刑法》第三百四十四条有关问题的批复"
+      "matched_title": "最高人民法院 最高人民检察院关于适用《中华人民共和国刑法》第三百四十四条有关问题的批复",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2939,7 +3051,8 @@
       "size": 26053,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817b969375017b9bb9ca520d72",
-      "matched_title": "最高人民法院关于审理侵害植物新品种权纠纷案件具体应用法律问题的若干规定（二）"
+      "matched_title": "最高人民法院关于审理侵害植物新品种权纠纷案件具体应用法律问题的若干规定（二）",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2952,7 +3065,8 @@
       "size": 25755,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e46000e27901600174703804fa",
-      "matched_title": "最高人民法院关于审理侵犯植物新品种权纠纷案件具体应用法律问题的若干规定"
+      "matched_title": "最高人民法院关于审理侵犯植物新品种权纠纷案件具体应用法律问题的若干规定",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2965,7 +3079,8 @@
       "size": 20951,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181a0bc9b0a01a0e731ac3e2817",
-      "matched_title": "最高人民法院关于审理森林资源民事纠纷案件适用法律若干问题的解释"
+      "matched_title": "最高人民法院关于审理森林资源民事纠纷案件适用法律若干问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2978,7 +3093,8 @@
       "size": 14661,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181799def980179ad20e02a1488",
-      "matched_title": "最高人民法院关于审理植物新品种纠纷案件若干问题的解释"
+      "matched_title": "最高人民法院关于审理植物新品种纠纷案件若干问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2991,7 +3107,8 @@
       "size": 29184,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181799df6140179b09f77092b8e",
-      "matched_title": "最高人民法院关于审理涉及农村土地承包纠纷案件适用法律问题的解释"
+      "matched_title": "最高人民法院关于审理涉及农村土地承包纠纷案件适用法律问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3004,7 +3121,8 @@
       "size": 21316,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54ab801a0e733bb372ead",
-      "matched_title": "最高人民法院关于审理生态环境侵权责任纠纷案件适用法律若干问题的解释"
+      "matched_title": "最高人民法院关于审理生态环境侵权责任纠纷案件适用法律若干问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3017,7 +3135,8 @@
       "size": 21462,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818a1cb546018acf22744a1cb8",
-      "matched_title": "最高人民法院关于审理破坏森林资源刑事案件适用法律若干问题的解释"
+      "matched_title": "最高人民法院关于审理破坏森林资源刑事案件适用法律若干问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3030,7 +3149,8 @@
       "size": 25402,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e45ffbbe41015ffca1ebab111d",
-      "matched_title": "最高人民法院关于审理破坏草原资源刑事案件应用法律若干问题的解释"
+      "matched_title": "最高人民法院关于审理破坏草原资源刑事案件应用法律若干问题的解释",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3043,7 +3163,8 @@
       "size": 23158,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e45ffbbe41015ffc6a838e0caa",
-      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知"
+      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3056,7 +3177,8 @@
       "size": 25913,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc61277793016127f2cbbf32ac",
-      "matched_title": "关于加快积压房地产产权确认工作的决定"
+      "matched_title": "关于加快积压房地产产权确认工作的决定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3069,7 +3191,8 @@
       "size": 22476,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e46000e279016001c4b9380af4",
-      "matched_title": "最高人民法院、最高人民检察院、公安部关于对冻结、扣划企业事业单位、机关团体在银行、非银行金融机构存款的执法活动加强监督的通知"
+      "matched_title": "最高人民法院、最高人民检察院、公安部关于对冻结、扣划企业事业单位、机关团体在银行、非银行金融机构存款的执法活动加强监督的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3082,7 +3205,8 @@
       "size": 18808,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181927f0e7b019487af93d85acd",
-      "matched_title": "湖北省林地管理条例"
+      "matched_title": "湖北省林地管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3095,7 +3219,8 @@
       "size": 19272,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc61277793016127ec0bfc2bbe",
-      "matched_title": "河南省人大常委会关于进一步加强城乡规划监督工作的决定"
+      "matched_title": "河南省人大常委会关于进一步加强城乡规划监督工作的决定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3108,7 +3233,8 @@
       "size": 25465,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知"
+      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3121,7 +3247,8 @@
       "size": 19936,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f412396fc1973",
-      "matched_title": "征收教育费附加的暂行规定"
+      "matched_title": "征收教育费附加的暂行规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3134,7 +3261,8 @@
       "size": 22846,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817a389105017a5034137d131c",
-      "matched_title": "安徽省林权管理条例"
+      "matched_title": "安徽省林权管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3147,7 +3275,8 @@
       "size": 15943,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818c24e05b018c474528a762a3",
-      "matched_title": "桂林市禁止乱挖滥采砂石土矿产资源规定"
+      "matched_title": "桂林市禁止乱挖滥采砂石土矿产资源规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3160,7 +3289,8 @@
       "size": 22846,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817a389105017a5034137d131c",
-      "matched_title": "安徽省林权管理条例"
+      "matched_title": "安徽省林权管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3173,7 +3303,8 @@
       "size": 20096,
       "source": "全国人大法律法规数据库",
       "npc_id": "9f5dd948936d475fab381916c37dd257",
-      "matched_title": "中华人民共和国国家发展规划法"
+      "matched_title": "中华人民共和国国家发展规划法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3186,7 +3317,8 @@
       "size": 20840,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f41ff6cdd029f",
-      "matched_title": "关于国家机关工作人员福利费掌管使用的暂行规定"
+      "matched_title": "关于国家机关工作人员福利费掌管使用的暂行规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3199,7 +3331,8 @@
       "size": 19557,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819c46fdc3019cb1674ef90919",
-      "matched_title": "上海市促进邮轮经济发展若干规定"
+      "matched_title": "上海市促进邮轮经济发展若干规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3212,7 +3345,8 @@
       "size": 25282,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817ab22b8a017abd5ad286057a",
-      "matched_title": "中华人民共和国草原法"
+      "matched_title": "中华人民共和国草原法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3225,7 +3359,8 @@
       "size": 23609,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816eb1afb8016ec094fc4f0324",
-      "matched_title": "连城国家级自然保护区条例"
+      "matched_title": "连城国家级自然保护区条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3238,7 +3373,8 @@
       "size": 25311,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f425a4b32054c",
-      "matched_title": "退耕还林条例"
+      "matched_title": "退耕还林条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3251,7 +3387,8 @@
       "size": 26515,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818189b5c3300189fcdb7c792825",
-      "matched_title": "内蒙古自治区建设国家重要能源和战略资源基地促进条例"
+      "matched_title": "内蒙古自治区建设国家重要能源和战略资源基地促进条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3264,7 +3401,8 @@
       "size": 25465,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知"
+      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3277,7 +3415,8 @@
       "size": 25465,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知"
+      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3290,7 +3429,8 @@
       "size": 28350,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819c230fa1019c455847f251c9",
-      "matched_title": "森林草原防灭火条例"
+      "matched_title": "森林草原防灭火条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3303,7 +3443,8 @@
       "size": 28350,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819c230fa1019c455847f251c9",
-      "matched_title": "森林草原防灭火条例"
+      "matched_title": "森林草原防灭火条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3316,7 +3457,8 @@
       "size": 25465,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知"
+      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3329,7 +3471,8 @@
       "size": 18951,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3e98bd016f423bf73d03a1",
-      "matched_title": "土地调查条例"
+      "matched_title": "土地调查条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3342,7 +3485,8 @@
       "size": 23158,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e45ffbbe41015ffc6a838e0caa",
-      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知"
+      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3355,7 +3499,8 @@
       "size": 23158,
       "source": "全国人大法律法规数据库",
       "npc_id": "402881e45ffbbe41015ffc6a838e0caa",
-      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知"
+      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3368,7 +3513,8 @@
       "size": 17729,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b83ab0197c3abf12339d3",
-      "matched_title": "江西省自然资源监督检查条例"
+      "matched_title": "江西省自然资源监督检查条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3381,7 +3527,8 @@
       "size": 43261,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf59eb80037",
-      "matched_title": "中华人民共和国宪法（1982年）"
+      "matched_title": "中华人民共和国宪法（1982年）",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3394,7 +3541,8 @@
       "size": 43261,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf59eb80037",
-      "matched_title": "中华人民共和国宪法（1982年）"
+      "matched_title": "中华人民共和国宪法（1982年）",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3407,7 +3555,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3420,7 +3569,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3433,7 +3583,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3446,7 +3597,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3459,7 +3611,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3472,7 +3625,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3485,7 +3639,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3498,7 +3653,8 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3511,7 +3667,22 @@
       "size": 26885,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例"
+      "matched_title": "中华人民共和国植物新品种保护条例",
+      "status": "pending"
+    },
+    {
+      "system": "B",
+      "category": "林草名录",
+      "folder": "法律法规/06-名录",
+      "title": "中华人民共和国植物新品种保护名录（林草部分）（第八批）",
+      "date": "20211201",
+      "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林草部分）（第八批）.docx",
+      "format": "docx",
+      "size": 37579,
+      "source": "国家林业和草原局公告（2021年第21号）附件原文",
+      "npc_id": null,
+      "matched_title": "中华人民共和国植物新品种保护名录（林草部分）（第八批）",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3524,7 +3695,8 @@
       "size": 24183,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc6127779301612847d95506e9",
-      "matched_title": "云南省珍贵树种保护条例"
+      "matched_title": "云南省珍贵树种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3537,7 +3709,8 @@
       "size": 24183,
       "source": "全国人大法律法规数据库",
       "npc_id": "4028abcc6127779301612847d95506e9",
-      "matched_title": "云南省珍贵树种保护条例"
+      "matched_title": "云南省珍贵树种保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3550,7 +3723,8 @@
       "size": 25282,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817ab22b8a017abd5ad286057a",
-      "matched_title": "中华人民共和国草原法"
+      "matched_title": "中华人民共和国草原法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3563,7 +3737,8 @@
       "size": 27060,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法"
+      "matched_title": "中华人民共和国野生动物保护法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3576,7 +3751,8 @@
       "size": 17696,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff54a6401a040df17a47f02",
-      "matched_title": "河南省野生植物保护条例"
+      "matched_title": "河南省野生植物保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3589,7 +3765,8 @@
       "size": 18846,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819ff541ea01a061075dde050f",
-      "matched_title": "常德市西洞庭湖国际重要湿地保护条例"
+      "matched_title": "常德市西洞庭湖国际重要湿地保护条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3602,7 +3779,8 @@
       "size": 24214,
       "source": "全国人大法律法规数据库",
       "npc_id": "016c39ca7739492cab1fe3aef22941c7",
-      "matched_title": "中华人民共和国社会救助法"
+      "matched_title": "中华人民共和国社会救助法",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3615,7 +3793,8 @@
       "size": 17974,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818199e72d6e019a14272f4b6784",
-      "matched_title": "山西省林木种子条例"
+      "matched_title": "山西省林木种子条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3628,7 +3807,8 @@
       "size": 18799,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4135f8461d3a",
-      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例"
+      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3641,7 +3821,8 @@
       "size": 19774,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181927f0e7b01966ac96ecb6b0f",
-      "matched_title": "海南自由贸易港防控外来物种入侵若干规定"
+      "matched_title": "海南自由贸易港防控外来物种入侵若干规定",
+      "status": "pending"
     },
     {
       "system": "B",
@@ -3654,7 +3835,8 @@
       "size": 24072,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf8382809ab",
-      "matched_title": "中华人民共和国中医药法"
+      "matched_title": "中华人民共和国中医药法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3667,7 +3849,8 @@
       "size": 29539,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff80818178efe3620179206d421428ce",
-      "matched_title": "中华人民共和国乡村振兴促进法"
+      "matched_title": "中华人民共和国乡村振兴促进法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3680,7 +3863,8 @@
       "size": 39132,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081819667441b019686946a752bbd",
-      "matched_title": "中华人民共和国传染病防治法"
+      "matched_title": "中华人民共和国传染病防治法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3693,7 +3877,8 @@
       "size": 20565,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818f197cf001905e50cfa1359f",
-      "matched_title": "中华人民共和国农业技术推广法"
+      "matched_title": "中华人民共和国农业技术推广法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3706,7 +3891,8 @@
       "size": 31910,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf74e1106bd",
-      "matched_title": "中华人民共和国农业法"
+      "matched_title": "中华人民共和国农业法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3719,7 +3905,8 @@
       "size": 25532,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf6726303f7",
-      "matched_title": "中华人民共和国农村土地承包经营纠纷调解仲裁法"
+      "matched_title": "中华人民共和国农村土地承包经营纠纷调解仲裁法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3732,7 +3919,8 @@
       "size": 114407,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181796a636a0179822a19640c92",
-      "matched_title": "中华人民共和国刑法"
+      "matched_title": "中华人民共和国刑法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3745,7 +3933,8 @@
       "size": 30181,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f3cbb3c016f4626903427fc",
-      "matched_title": "中华人民共和国土地管理法"
+      "matched_title": "中华人民共和国土地管理法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3758,7 +3947,8 @@
       "size": 36030,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf8bb110b8b",
-      "matched_title": "中华人民共和国土壤污染防治法"
+      "matched_title": "中华人民共和国土壤污染防治法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3771,7 +3961,8 @@
       "size": 25312,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f216129dd1a92",
-      "matched_title": "中华人民共和国城乡规划法"
+      "matched_title": "中华人民共和国城乡规划法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3784,7 +3975,8 @@
       "size": 42742,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f1cd378361155",
-      "matched_title": "中华人民共和国大气污染防治法"
+      "matched_title": "中华人民共和国大气污染防治法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3797,7 +3989,8 @@
       "size": 43261,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf59eb80037",
-      "matched_title": "中华人民共和国宪法（1982年）"
+      "matched_title": "中华人民共和国宪法（1982年）",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3810,7 +4003,8 @@
       "size": 24740,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f1d06082912c2",
-      "matched_title": "中华人民共和国循环经济促进法"
+      "matched_title": "中华人民共和国循环经济促进法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3823,7 +4017,8 @@
       "size": 30773,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf60d3f0267",
-      "matched_title": "中华人民共和国民族区域自治法"
+      "matched_title": "中华人民共和国民族区域自治法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3836,7 +4031,8 @@
       "size": 197879,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808081729d1efe01729d50b5c500bf",
-      "matched_title": "中华人民共和国民法典"
+      "matched_title": "中华人民共和国民法典",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3849,7 +4045,8 @@
       "size": 62706,
       "source": "全国人大法律法规数据库",
       "npc_id": "7ee5a369049e412bbd1a96a2fef74abb",
-      "matched_title": "中华人民共和国民用航空法"
+      "matched_title": "中华人民共和国民用航空法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3862,7 +4059,8 @@
       "size": 23685,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf7163c05d7",
-      "matched_title": "中华人民共和国水土保持法"
+      "matched_title": "中华人民共和国水土保持法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3875,7 +4073,8 @@
       "size": 38573,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf8504509fb",
-      "matched_title": "中华人民共和国水污染防治法"
+      "matched_title": "中华人民共和国水污染防治法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3888,7 +4087,8 @@
       "size": 27349,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf8112508ed",
-      "matched_title": "中华人民共和国水法"
+      "matched_title": "中华人民共和国水法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3901,7 +4101,8 @@
       "size": 38561,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818a21e8b2018b62075316188f",
-      "matched_title": "中华人民共和国海洋环境保护法"
+      "matched_title": "中华人民共和国海洋环境保护法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3914,7 +4115,8 @@
       "size": 38561,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818a21e8b2018b62075316188f",
-      "matched_title": "中华人民共和国海洋环境保护法"
+      "matched_title": "中华人民共和国海洋环境保护法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3927,7 +4129,8 @@
       "size": 28736,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081817ab22e0c017abd909312060a",
-      "matched_title": "中华人民共和国消防法"
+      "matched_title": "中华人民共和国消防法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3940,7 +4143,8 @@
       "size": 29822,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8081818d6a424b01905e5e6b702e66",
-      "matched_title": "中华人民共和国生物安全法"
+      "matched_title": "中华人民共和国生物安全法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3953,7 +4157,8 @@
       "size": 23796,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff8080816f135f46016f1d9b1ffe15aa",
-      "matched_title": "中华人民共和国电力法"
+      "matched_title": "中华人民共和国电力法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3966,7 +4171,8 @@
       "size": 29171,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181841250d10184281982050f7f",
-      "matched_title": "中华人民共和国畜牧法"
+      "matched_title": "中华人民共和国畜牧法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3979,7 +4185,8 @@
       "size": 29171,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181841250d10184281982050f7f",
-      "matched_title": "中华人民共和国畜牧法"
+      "matched_title": "中华人民共和国畜牧法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3992,7 +4199,8 @@
       "size": 24346,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf70e16059b",
-      "matched_title": "中华人民共和国石油天然气管道保护法"
+      "matched_title": "中华人民共和国石油天然气管道保护法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -4005,7 +4213,8 @@
       "size": 28148,
       "source": "全国人大法律法规数据库",
       "npc_id": "ff808181927b2d1a01930c4a79406d06",
-      "matched_title": "中华人民共和国矿产资源法"
+      "matched_title": "中华人民共和国矿产资源法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -4018,7 +4227,8 @@
       "size": 24283,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf64d550393",
-      "matched_title": "中华人民共和国禁毒法"
+      "matched_title": "中华人民共和国禁毒法",
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -4031,7 +4241,8 @@
       "size": 26641,
       "source": "全国人大法律法规数据库",
       "npc_id": "2c909fdd678bf17901678bf8122508f7",
-      "matched_title": "中华人民共和国防洪法"
+      "matched_title": "中华人民共和国防洪法",
+      "status": "uploaded"
     }
   ]
 }
