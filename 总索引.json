@@ -1,14 +1,14 @@
 {
   "repo": "1horse0011/Natural-Resources-Policy-Library",
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "counts": {
     "a_total": 172,
     "a_forestry_related": 16,
     "b_downloaded_entries": 205,
     "b_unique_files": 203,
     "b_failed": 0,
-    "b_uploaded": 76,
-    "b_pending": 127,
+    "b_uploaded": 181,
+    "b_pending": 22,
     "b_by_folder": {
       "法律法规/01-法律": 13,
       "法律法规/07-相关法律摘录": 30,
@@ -1830,11 +1830,11 @@
       "date": "20240603",
       "path": "林业和草原/法律法规/03-部门规章/“三北”工程补助资金管理办法.docx",
       "format": "docx",
-      "size": 94924,
-      "source": "全国人大法律法规数据库",
+      "size": 41154,
+      "source": "林草局官网（政务公开全文页）",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1844,11 +1844,11 @@
       "date": "20240125",
       "path": "林业和草原/法律法规/03-部门规章/世界地质公园管理办法.docx",
       "format": "docx",
-      "size": 17901,
-      "source": "全国人大法律法规数据库",
+      "size": 40572,
+      "source": "林草局官网",
       "npc_id": "ff8081819b697220019b881b6cfa785c",
-      "matched_title": "湘西世界地质公园保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1858,11 +1858,11 @@
       "date": "20180601",
       "path": "林业和草原/法律法规/03-部门规章/中国森林旅游节管理办法.docx",
       "format": "docx",
-      "size": 18642,
-      "source": "全国人大法律法规数据库",
+      "size": 40270,
+      "source": "林草局官网",
       "npc_id": "2c909fdd678bf17901678bf5d73701a9",
-      "matched_title": "中国人民解放军军官军衔条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1872,11 +1872,11 @@
       "date": "20210823",
       "path": "林业和草原/法律法规/03-部门规章/中央生态环保转移支付资金项目储备制度管理暂行办法.docx",
       "format": "docx",
-      "size": 23561,
-      "source": "全国人大法律法规数据库",
+      "size": 38857,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3cbb3c016f40e58a2d09c3",
-      "matched_title": "中央储备粮管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1886,11 +1886,11 @@
       "date": "20171201",
       "path": "林业和草原/法律法规/03-部门规章/主要林木品种审定办法.docx",
       "format": "docx",
-      "size": 22234,
-      "source": "全国人大法律法规数据库",
+      "size": 42013,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816f3cbb3c016f40f1f2c60d2e",
-      "matched_title": "中药品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1900,11 +1900,11 @@
       "date": "20211001",
       "path": "林业和草原/法律法规/03-部门规章/乡村护林（草）员管理办法.docx",
       "format": "docx",
-      "size": 33401,
-      "source": "全国人大法律法规数据库",
+      "size": 41210,
+      "source": "林草局官网",
       "npc_id": "ff8080816f135f46016f20e4396a16fb",
-      "matched_title": "中华人民共和国公务员法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1914,11 +1914,11 @@
       "date": "20221128",
       "path": "林业和草原/法律法规/03-部门规章/乡村振兴责任制实施办法.docx",
       "format": "docx",
-      "size": 29539,
-      "source": "全国人大法律法规数据库",
+      "size": 44990,
+      "source": "中国政府网",
       "npc_id": "ff80818178efe3620179206d421428ce",
-      "matched_title": "中华人民共和国乡村振兴促进法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1928,11 +1928,11 @@
       "date": "20230901",
       "path": "林业和草原/法律法规/03-部门规章/全国检疫性林业有害生物疫区管理办法.docx",
       "format": "docx",
-      "size": 19426,
-      "source": "全国人大法律法规数据库",
+      "size": 38056,
+      "source": "林草局官网",
       "npc_id": "ff8081819ff54ab801a05c07de3c5ac8",
-      "matched_title": "湖南省林业有害生物防治检疫条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1942,11 +1942,11 @@
       "date": "20170613",
       "path": "林业和草原/法律法规/03-部门规章/全民义务植树尽责形式管理办法（试行）.docx",
       "format": "docx",
-      "size": 219150,
-      "source": "全国人大法律法规数据库",
+      "size": 38555,
+      "source": "淮安市自然资源和规划局",
       "npc_id": "ff8080816f21a161016f31a49bc615db",
-      "matched_title": "海东市全民义务植树条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1956,11 +1956,11 @@
       "date": "20211018",
       "path": "林业和草原/法律法规/03-部门规章/区域生态质量评价办法（试行）.docx",
       "format": "docx",
-      "size": 30773,
-      "source": "全国人大法律法规数据库",
+      "size": 43472,
+      "source": "怀化市林业局",
       "npc_id": "2c909fdd678bf17901678bf60d3f0267",
-      "matched_title": "中华人民共和国民族区域自治法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -1984,11 +1984,11 @@
       "date": "20250306",
       "path": "林业和草原/法律法规/03-部门规章/国家储备林建设管理办法.docx",
       "format": "docx",
-      "size": 21254,
-      "source": "全国人大法律法规数据库",
+      "size": 41964,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3e98bd016f4205c511030c",
-      "matched_title": "国家重点建设项目管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2012,11 +2012,11 @@
       "date": "20220601",
       "path": "林业和草原/法律法规/03-部门规章/国家公园管理暂行办法.docx",
       "format": "docx",
-      "size": 15472,
-      "source": "全国人大法律法规数据库",
+      "size": 42469,
+      "source": "林草局官网",
       "npc_id": "2c909fdd678bf17901678bf5a6740055",
-      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2026,11 +2026,11 @@
       "date": "20231222",
       "path": "林业和草原/法律法规/03-部门规章/国家林下经济示范基地管理办法.docx",
       "format": "docx",
-      "size": 72391,
-      "source": "全国人大法律法规数据库",
+      "size": 42769,
+      "source": "林草局官网",
       "npc_id": "ff8080816fbc57c10170a4b1aad33c05",
-      "matched_title": "深圳经济特区国家自主创新示范区条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2040,11 +2040,11 @@
       "date": "20231027",
       "path": "林业和草原/法律法规/03-部门规章/国家林业产业示范园区创建认定办法.docx",
       "format": "docx",
-      "size": 24904,
-      "source": "全国人大法律法规数据库",
+      "size": 44586,
+      "source": "林草局官网",
       "npc_id": "ff8081819aedd494019afbdbef3a5483",
-      "matched_title": "西藏自治区国家固边兴边富民行动示范区创建条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2054,11 +2054,11 @@
       "date": "20241001",
       "path": "林业和草原/法律法规/03-部门规章/国家林业和草原局专业标准化技术委员会管理办法.docx",
       "format": "docx",
-      "size": 22785,
-      "source": "全国人大法律法规数据库",
+      "size": 42215,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3cbb3c016f40f529ca0e1a",
-      "matched_title": "军用标准化管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2068,11 +2068,11 @@
       "date": "20190408",
       "path": "林业和草原/法律法规/03-部门规章/国家林业和草原局行政规范性文件管理办法.docx",
       "format": "docx",
-      "size": 18102,
-      "source": "全国人大法律法规数据库",
+      "size": 41457,
+      "source": "林草局官网",
       "npc_id": "ff808181971b83ab0197cf1bc33e771b",
-      "matched_title": "湖州市乡镇街道行政规范性文件备案审查规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2082,11 +2082,11 @@
       "date": "20210308",
       "path": "林业和草原/法律法规/03-部门规章/国家林业和草原局行政许可工作管理办法.docx",
       "format": "docx",
-      "size": 32971,
-      "source": "全国人大法律法规数据库",
+      "size": 43949,
+      "source": "林草局官网",
       "npc_id": "ff8080816f135f46016f216bf96b1ae6",
-      "matched_title": "中华人民共和国行政许可法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2096,11 +2096,11 @@
       "date": "20200201",
       "path": "林业和草原/法律法规/03-部门规章/国家林业草原工程技术研究中心管理办法.docx",
       "format": "docx",
-      "size": 20697,
-      "source": "全国人大法律法规数据库",
+      "size": 42153,
+      "source": "林草局官网",
       "npc_id": "ff8081819ff54ab801a040d37cb345b9",
-      "matched_title": "湖北省林业管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2110,11 +2110,11 @@
       "date": "20231027",
       "path": "林业和草原/法律法规/03-部门规章/国家林业重点龙头企业认定办法.docx",
       "format": "docx",
-      "size": 21254,
-      "source": "全国人大法律法规数据库",
+      "size": 44585,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3e98bd016f4205c511030c",
-      "matched_title": "国家重点建设项目管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2124,11 +2124,11 @@
       "date": "20210721",
       "path": "林业和草原/法律法规/03-部门规章/国家林草科普基地管理办法.docx",
       "format": "docx",
-      "size": 15762,
-      "source": "全国人大法律法规数据库",
+      "size": 39799,
+      "source": "林草局官网",
       "npc_id": "2c909fdd678bf17901678bf62dde02fd",
-      "matched_title": "反分裂国家法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2138,11 +2138,11 @@
       "date": "20190801",
       "path": "林业和草原/法律法规/03-部门规章/国家级森林公园总体规划审批管理办法.docx",
       "format": "docx",
-      "size": 26216,
-      "source": "全国人大法律法规数据库",
+      "size": 38788,
+      "source": "林草局官网",
       "npc_id": "4028abcc6127779301612880e1383a53",
-      "matched_title": "湖南省土地利用总体规划条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2152,11 +2152,11 @@
       "date": "20231009",
       "path": "林业和草原/法律法规/03-部门规章/国家级自然公园管理办法（试行）.docx",
       "format": "docx",
-      "size": 23609,
-      "source": "全国人大法律法规数据库",
+      "size": 43274,
+      "source": "林草局官网",
       "npc_id": "ff8080816eb1afb8016ec094fc4f0324",
-      "matched_title": "连城国家级自然保护区条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2166,11 +2166,11 @@
       "date": "20211223",
       "path": "林业和草原/法律法规/03-部门规章/国家自然资源科普基地管理办法（试行）.docx",
       "format": "docx",
-      "size": 15762,
-      "source": "全国人大法律法规数据库",
+      "size": 40491,
+      "source": "首都之窗",
       "npc_id": "2c909fdd678bf17901678bf62dde02fd",
-      "matched_title": "反分裂国家法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2180,11 +2180,11 @@
       "date": "20150430",
       "path": "林业和草原/法律法规/03-部门规章/国家重点保护野生动物驯养繁殖许可证管理办法.docx",
       "format": "docx",
-      "size": 25775,
-      "source": "全国人大法律法规数据库",
+      "size": 38529,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816f3cbb3c016f40f93dba0f16",
-      "matched_title": "危险废物经营许可证管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2194,11 +2194,11 @@
       "date": "20211009",
       "path": "林业和草原/法律法规/03-部门规章/国有林场管理办法.docx",
       "format": "docx",
-      "size": 33687,
-      "source": "全国人大法律法规数据库",
+      "size": 40527,
+      "source": "林草局官网",
       "npc_id": "2c90e5ba6200715a0163ecac47ca6da1",
-      "matched_title": "山东省国有林场条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2208,11 +2208,11 @@
       "date": "20191015",
       "path": "林业和草原/法律法规/03-部门规章/在国家沙化土地封禁保护区范围内进行修建铁路、公路等建设活动监督管理办法.docx",
       "format": "docx",
-      "size": 17652,
-      "source": "全国人大法律法规数据库",
+      "size": 38474,
+      "source": "林草局官网",
       "npc_id": "ff8081819ff54ab801a05702cc15382d",
-      "matched_title": "通辽市沙化土地治理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2222,11 +2222,11 @@
       "date": "20180305",
       "path": "林业和草原/法律法规/03-部门规章/在国家级自然保护区修筑设施审批管理暂行办法.docx",
       "format": "docx",
-      "size": 23609,
-      "source": "全国人大法律法规数据库",
+      "size": 39159,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816eb1afb8016ec094fc4f0324",
-      "matched_title": "连城国家级自然保护区条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2250,11 +2250,11 @@
       "date": "20220801",
       "path": "林业和草原/法律法规/03-部门规章/外来入侵物种管理办法.docx",
       "format": "docx",
-      "size": 19774,
-      "source": "全国人大法律法规数据库",
+      "size": 40563,
+      "source": "商务部（转载中国政府网）",
       "npc_id": "ff808181927f0e7b01966ac96ecb6b0f",
-      "matched_title": "海南自由贸易港防控外来物种入侵若干规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2264,11 +2264,11 @@
       "date": "20211022",
       "path": "林业和草原/法律法规/03-部门规章/建设项目使用林地、草原及在森林和野生动物类型国家级自然保护区建设行政许可委托工作监管办法.docx",
       "format": "docx",
-      "size": 18027,
-      "source": "全国人大法律法规数据库",
+      "size": 41711,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3cbb3c016f41032dff1161",
-      "matched_title": "森林和野生动物类型自然保护区管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2278,11 +2278,11 @@
       "date": "20150501",
       "path": "林业和草原/法律法规/03-部门规章/建设项目使用林地审核审批管理办法.docx",
       "format": "docx",
-      "size": 22446,
-      "source": "全国人大法律法规数据库",
+      "size": 40939,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80808172b5f24f01732d5ff94239d6",
-      "matched_title": "滨州市工程建设项目并联审批管理规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2292,11 +2292,11 @@
       "date": "20210913",
       "path": "林业和草原/法律法规/03-部门规章/建设项目使用林地审核审批管理规范.docx",
       "format": "docx",
-      "size": 22446,
-      "source": "全国人大法律法规数据库",
+      "size": 43683,
+      "source": "林草局官网",
       "npc_id": "ff80808172b5f24f01732d5ff94239d6",
-      "matched_title": "滨州市工程建设项目并联审批管理规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2306,11 +2306,11 @@
       "date": "20180301",
       "path": "林业和草原/法律法规/03-部门规章/开展林木转基因工程活动审批管理办法.docx",
       "format": "docx",
-      "size": 23781,
-      "source": "全国人大法律法规数据库",
+      "size": 40187,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816f3cbb3c016f412348ab195e",
-      "matched_title": "农业转基因生物安全管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2320,11 +2320,11 @@
       "date": "20160922",
       "path": "林业和草原/法律法规/03-部门规章/引进陆生野生动物外来物种种类及数量审批管理办法.docx",
       "format": "docx",
-      "size": 16195,
-      "source": "全国人大法律法规数据库",
+      "size": 39045,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "2c909fdd678bf17901678bf5c9fd014f",
-      "matched_title": "中华人民共和国领海及毗连区法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2334,11 +2334,11 @@
       "date": "20160922",
       "path": "林业和草原/法律法规/03-部门规章/普及型国外引种试种苗圃资格认定管理办法.docx",
       "format": "docx",
-      "size": 20107,
-      "source": "全国人大法律法规数据库",
+      "size": 38342,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816f135f46016f1d5318af145e",
-      "matched_title": "中华人民共和国外商投资法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2348,11 +2348,11 @@
       "date": "20231229",
       "path": "林业和草原/法律法规/03-部门规章/松材线虫病疫区和疫木管理办法.docx",
       "format": "docx",
-      "size": 21401,
-      "source": "全国人大法律法规数据库",
+      "size": 39731,
+      "source": "林草局官网",
       "npc_id": "ff8081818c24df58018c67bc129369c9",
-      "matched_title": "福州市古树名木保护管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2362,11 +2362,11 @@
       "date": "20160922",
       "path": "林业和草原/法律法规/03-部门规章/松材线虫病疫木加工板材定点加工企业审批管理办法.docx",
       "format": "docx",
-      "size": 31744,
-      "source": "全国人大法律法规数据库",
+      "size": 38284,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80808177e75f880177f74992fb0f5b",
-      "matched_title": "云浮市石材生产加工污染防治条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2404,11 +2404,11 @@
       "date": "20160101",
       "path": "林业和草原/法律法规/03-部门规章/林业工作站管理办法.docx",
       "format": "docx",
-      "size": 20697,
-      "source": "全国人大法律法规数据库",
+      "size": 39074,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081819ff54ab801a040d37cb345b9",
-      "matched_title": "湖北省林业管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2418,11 +2418,11 @@
       "date": "20210604",
       "path": "林业和草原/法律法规/03-部门规章/林业改革发展资金管理办法.docx",
       "format": "docx",
-      "size": 94924,
-      "source": "全国人大法律法规数据库",
+      "size": 42652,
+      "source": "林草局官网",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2432,11 +2432,11 @@
       "date": "20241216",
       "path": "林业和草原/法律法规/03-部门规章/林业草原改革发展资金管理办法.docx",
       "format": "docx",
-      "size": 94924,
-      "source": "全国人大法律法规数据库",
+      "size": 42111,
+      "source": "岳阳市林业局（转载财资环〔2024〕38号）",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2446,11 +2446,11 @@
       "date": "20240523",
       "path": "林业和草原/法律法规/03-部门规章/林业草原生态保护恢复资金管理办法.docx",
       "format": "docx",
-      "size": 94924,
-      "source": "全国人大法律法规数据库",
+      "size": 43241,
+      "source": "FAO faolex（转载财政部/林草局）",
       "npc_id": "ff808081752b7d43017697d0023d296f",
-      "matched_title": "阳泉市住宅专项维修资金管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2460,11 +2460,11 @@
       "date": "19961001",
       "path": "林业和草原/法律法规/03-部门规章/林业行政处罚程序规定.docx",
       "format": "docx",
-      "size": 18579,
-      "source": "全国人大法律法规数据库",
+      "size": 42147,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081819ff541ea01a0478de8c5076a",
-      "matched_title": "湖南省林业条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2474,11 +2474,11 @@
       "date": "19961001",
       "path": "林业和草原/法律法规/03-部门规章/林业行政执法监督办法.docx",
       "format": "docx",
-      "size": 20328,
-      "source": "全国人大法律法规数据库",
+      "size": 40651,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081819b697249019bc0b370d50de0",
-      "matched_title": "行政执法监督条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2488,11 +2488,11 @@
       "date": "19961014",
       "path": "林业和草原/法律法规/03-部门规章/林木林地权属争议处理办法.docx",
       "format": "docx",
-      "size": 28945,
-      "source": "全国人大法律法规数据库",
+      "size": 39395,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "4028abcc61277793016127f1a2333170",
-      "matched_title": "福建省林木林地权属争议处理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2502,11 +2502,11 @@
       "date": "20160601",
       "path": "林业和草原/法律法规/03-部门规章/林木种子生产经营许可证管理办法.docx",
       "format": "docx",
-      "size": 17974,
-      "source": "全国人大法律法规数据库",
+      "size": 40373,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80818199e72d6e019a14272f4b6784",
-      "matched_title": "山西省林木种子条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2516,11 +2516,11 @@
       "date": "20070101",
       "path": "林业和草原/法律法规/03-部门规章/林木种子质量管理办法.docx",
       "format": "docx",
-      "size": 17974,
-      "source": "全国人大法律法规数据库",
+      "size": 39015,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80818199e72d6e019a14272f4b6784",
-      "matched_title": "山西省林木种子条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2530,11 +2530,11 @@
       "date": "20071101",
       "path": "林业和草原/法律法规/03-部门规章/林木种质资源管理办法.docx",
       "format": "docx",
-      "size": 19607,
-      "source": "全国人大法律法规数据库",
+      "size": 39418,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80818199e72c4f0199f11bac6c2383",
-      "matched_title": "海东市高原特色农作物种质资源保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2544,11 +2544,11 @@
       "date": "20110125",
       "path": "林业和草原/法律法规/03-部门规章/林木良种推广使用管理办法.docx",
       "format": "docx",
-      "size": 20565,
-      "source": "全国人大法律法规数据库",
+      "size": 38798,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081818f197cf001905e50cfa1359f",
-      "matched_title": "中华人民共和国农业技术推广法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2558,11 +2558,11 @@
       "date": "20230104",
       "path": "林业和草原/法律法规/03-部门规章/林长制激励措施实施办法（试行）.docx",
       "format": "docx",
-      "size": 15981,
-      "source": "全国人大法律法规数据库",
+      "size": 41384,
+      "source": "北京森网（转载林草局/财政部）",
       "npc_id": "2c909fdd678bf17901678bf634330311",
-      "matched_title": "中华人民共和国外国中央银行财产司法强制措施豁免法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2572,11 +2572,11 @@
       "date": "20220228",
       "path": "林业和草原/法律法规/03-部门规章/林长制督查考核办法（试行）.docx",
       "format": "docx",
-      "size": 19465,
-      "source": "全国人大法律法规数据库",
+      "size": 43048,
+      "source": "北京森网",
       "npc_id": "ff808081777d07c50177853023f40b05",
-      "matched_title": "政府督查工作条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2600,11 +2600,11 @@
       "date": "20080101",
       "path": "林业和草原/法律法规/03-部门规章/森林资源监督工作管理办法.docx",
       "format": "docx",
-      "size": 22387,
-      "source": "全国人大法律法规数据库",
+      "size": 38938,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "4028abcc6127779301612856892015df",
-      "matched_title": "济南市森林资源保护管理办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2628,11 +2628,11 @@
       "date": "20191001",
       "path": "林业和草原/法律法规/03-部门规章/水生野生动物及其制品价值评估办法.docx",
       "format": "docx",
-      "size": 22545,
-      "source": "全国人大法律法规数据库",
+      "size": 41141,
+      "source": "商务部全球法规网",
       "npc_id": "2c909fdd678bf17901678bf808be08cf",
-      "matched_title": "中华人民共和国资产评估法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2642,11 +2642,11 @@
       "date": "20171205",
       "path": "林业和草原/法律法规/03-部门规章/湿地保护管理规定.docx",
       "format": "docx",
-      "size": 25321,
-      "source": "全国人大法律法规数据库",
+      "size": 40263,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081817d99a651017deb6fd24533af",
-      "matched_title": "中华人民共和国湿地保护法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2656,11 +2656,11 @@
       "date": "20240701",
       "path": "林业和草原/法律法规/03-部门规章/湿地恢复费缴纳和使用管理暂行办法.docx",
       "format": "docx",
-      "size": 21061,
-      "source": "全国人大法律法规数据库",
+      "size": 39845,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3cbb3c016f4151b6f121d7",
-      "matched_title": "渔业资源增殖保护费征收使用办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2684,11 +2684,11 @@
       "date": "20221227",
       "path": "林业和草原/法律法规/03-部门规章/生态保护红线生态环境监督办法（试行）.docx",
       "format": "docx",
-      "size": 57856,
-      "source": "全国人大法律法规数据库",
+      "size": 39511,
+      "source": "生态环境部",
       "npc_id": "ff80818181951d9b0181a8bc79664369",
-      "matched_title": "海南省生态保护红线管理规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2698,11 +2698,11 @@
       "date": "20211202",
       "path": "林业和草原/法律法规/03-部门规章/生态护林员管理办法.docx",
       "format": "docx",
-      "size": 243471,
-      "source": "全国人大法律法规数据库",
+      "size": 41092,
+      "source": "江门市人民政府（转载林草局）",
       "npc_id": "96630961659b4d87a65b7b1c595097fa",
-      "matched_title": "中华人民共和国生态环境法典",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2712,11 +2712,11 @@
       "date": "20220426",
       "path": "林业和草原/法律法规/03-部门规章/生态环境损害赔偿管理规定.docx",
       "format": "docx",
-      "size": 17674,
-      "source": "全国人大法律法规数据库",
+      "size": 42838,
+      "source": "林草局官网",
       "npc_id": "ff8081819ff54ab801a084109b2e20d4",
-      "matched_title": "南通市生态环境损害赔偿程序规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2740,11 +2740,11 @@
       "date": "20210201",
       "path": "林业和草原/法律法规/03-部门规章/碳排放权交易管理办法（试行）.docx",
       "format": "docx",
-      "size": 19733,
-      "source": "全国人大法律法规数据库",
+      "size": 41188,
+      "source": "上海市生态环境局",
       "npc_id": "ff8081819ff54a6401a0ae8df6842641",
-      "matched_title": "碳排放权交易管理暂行条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2754,11 +2754,11 @@
       "date": "20151124",
       "path": "林业和草原/法律法规/03-部门规章/突发林业有害生物事件处置办法.docx",
       "format": "docx",
-      "size": 33787,
-      "source": "全国人大法律法规数据库",
+      "size": 39076,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081818d6a424b01905f13edba2efb",
-      "matched_title": "中华人民共和国突发事件应对法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2796,11 +2796,11 @@
       "date": "20190711",
       "path": "林业和草原/法律法规/03-部门规章/自然资源统一确权登记暂行办法.docx",
       "format": "docx",
-      "size": 19102,
-      "source": "全国人大法律法规数据库",
+      "size": 45264,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3cbb3c016f41480b1e1ffc",
-      "matched_title": "仲裁委员会登记暂行办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2810,11 +2810,11 @@
       "date": "20221208",
       "path": "林业和草原/法律法规/03-部门规章/自然资源调查监测成果管理办法（试行）.docx",
       "format": "docx",
-      "size": 23037,
-      "source": "全国人大法律法规数据库",
+      "size": 40842,
+      "source": "朔信咨询",
       "npc_id": "2c909fdd678bf17901678bf7e3540843",
-      "matched_title": "中华人民共和国促进科技成果转化法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2824,11 +2824,11 @@
       "date": "20200731",
       "path": "林业和草原/法律法规/03-部门规章/草原征占用审核审批管理规范.docx",
       "format": "docx",
-      "size": 23446,
-      "source": "全国人大法律法规数据库",
+      "size": 40166,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3cbb3c016f41197132170f",
-      "matched_title": "征信业管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2838,11 +2838,11 @@
       "date": "20210101",
       "path": "林业和草原/法律法规/03-部门规章/退耕还林还草档案管理办法.docx",
       "format": "docx",
-      "size": 25311,
-      "source": "全国人大法律法规数据库",
+      "size": 45066,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3e98bd016f425a4b32054c",
-      "matched_title": "退耕还林条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2852,11 +2852,11 @@
       "date": "20140501",
       "path": "林业和草原/法律法规/03-部门规章/野生动植物进出口证书管理办法.docx",
       "format": "docx",
-      "size": 18799,
-      "source": "全国人大法律法规数据库",
+      "size": 41074,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816f3cbb3c016f4135f8461d3a",
-      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2866,11 +2866,11 @@
       "date": "20171205",
       "path": "林业和草原/法律法规/03-部门规章/野生动物及其制品价值评估方法.docx",
       "format": "docx",
-      "size": 22545,
-      "source": "全国人大法律法规数据库",
+      "size": 37866,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "2c909fdd678bf17901678bf808be08cf",
-      "matched_title": "中华人民共和国资产评估法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2880,11 +2880,11 @@
       "date": "20180101",
       "path": "林业和草原/法律法规/03-部门规章/野生动物收容救护管理办法.docx",
       "format": "docx",
-      "size": 27060,
-      "source": "全国人大法律法规数据库",
+      "size": 38749,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2894,11 +2894,11 @@
       "date": "20230501",
       "path": "林业和草原/法律法规/03-部门规章/野生动物检疫办法.docx",
       "format": "docx",
-      "size": 27060,
-      "source": "全国人大法律法规数据库",
+      "size": 38397,
+      "source": "林草局官网",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2908,11 +2908,11 @@
       "date": "20130122",
       "path": "林业和草原/法律法规/03-部门规章/陆生野生动物疫源疫病监测防控管理办法.docx",
       "format": "docx",
-      "size": 48743,
-      "source": "全国人大法律法规数据库",
+      "size": 39981,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff80808177e75f880178f3af1d8f3b55",
-      "matched_title": "青海省鼠疫防控条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2922,11 +2922,11 @@
       "date": "19930101",
       "path": "林业和草原/法律法规/03-部门规章/陆生野生动物资源保护管理费收费办法.docx",
       "format": "docx",
-      "size": 20406,
-      "source": "全国人大法律法规数据库",
+      "size": 38302,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8080816f3cbb3c016f4145fce81fa4",
-      "matched_title": "仲裁委员会仲裁收费办法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2936,11 +2936,11 @@
       "date": "20231201",
       "path": "林业和草原/法律法规/03-部门规章/陆生野生动物重要栖息地认定暂行办法.docx",
       "format": "docx",
-      "size": 15472,
-      "source": "全国人大法律法规数据库",
+      "size": 39498,
+      "source": "林草局官网",
       "npc_id": "2c909fdd678bf17901678bf5a6740055",
-      "matched_title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2950,11 +2950,11 @@
       "date": "20250401",
       "path": "林业和草原/法律法规/03-部门规章/集体林地经营权流转管理办法.docx",
       "format": "docx",
-      "size": 27759,
-      "source": "全国人大法律法规数据库",
+      "size": 40057,
+      "source": "林草局官网",
       "npc_id": "ff8081818d6a463901905f2cc2c12d3b",
-      "matched_title": "中华人民共和国农村集体经济组织法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2964,11 +2964,11 @@
       "date": "20130622",
       "path": "林业和草原/法律法规/03-部门规章/集体林权制度改革档案管理办法.docx",
       "format": "docx",
-      "size": 22846,
-      "source": "全国人大法律法规数据库",
+      "size": 40027,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff8081817a389105017a5034137d131c",
-      "matched_title": "安徽省林权管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -2978,11 +2978,11 @@
       "date": "20010423",
       "path": "林业和草原/法律法规/04-司法解释/关于森林和陆生野生动物刑事案件管辖及立案标准.docx",
       "format": "docx",
-      "size": 20299,
-      "source": "全国人大法律法规数据库",
+      "size": 52391,
+      "source": "林草局官网",
       "npc_id": "2c909fdd678bf17901678bf876430a91",
-      "matched_title": "中华人民共和国标准化法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3160,11 +3160,11 @@
       "date": "20230925",
       "path": "林业和草原/法律法规/05-政策性文件/中共中央办公厅 国务院办公厅印发《深化集体林权制度改革方案》.docx",
       "format": "docx",
-      "size": 23158,
-      "source": "全国人大法律法规数据库",
+      "size": 42981,
+      "source": "林草局官网",
       "npc_id": "402881e45ffbbe41015ffc6a838e0caa",
-      "matched_title": "最高人民法院办公厅关于转发《国务院法制局关于征收企业专用码头货物港务费具体适用规章问题的复函》的通知",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3174,11 +3174,11 @@
       "date": "20030625",
       "path": "林业和草原/法律法规/05-政策性文件/中共中央国务院关于加快林业发展的决定.docx",
       "format": "docx",
-      "size": 25913,
-      "source": "全国人大法律法规数据库",
+      "size": 47380,
+      "source": "高顿教育",
       "npc_id": "4028abcc61277793016127f2cbbf32ac",
-      "matched_title": "关于加快积压房地产产权确认工作的决定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3188,11 +3188,11 @@
       "date": "20250815",
       "path": "林业和草原/法律法规/05-政策性文件/中国人民银行 金融监管总局 国家林草局联合印发《关于金融支持林业高质量发展的通知》.docx",
       "format": "docx",
-      "size": 22476,
-      "source": "全国人大法律法规数据库",
+      "size": 41783,
+      "source": "北京市金融局",
       "npc_id": "402881e46000e279016001c4b9380af4",
-      "matched_title": "最高人民法院、最高人民检察院、公安部关于对冻结、扣划企业事业单位、机关团体在银行、非银行金融机构存款的执法活动加强监督的通知",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3202,11 +3202,11 @@
       "date": "20230406",
       "path": "林业和草原/法律法规/05-政策性文件/关于以第三次全国国土调查成果为基础明确林地管理边界 规范林地管理的通知.docx",
       "format": "docx",
-      "size": 18808,
-      "source": "全国人大法律法规数据库",
+      "size": 39623,
+      "source": "上海市规划和自然资源局",
       "npc_id": "ff808181927f0e7b019487af93d85acd",
-      "matched_title": "湖北省林地管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3230,11 +3230,11 @@
       "date": "20220816",
       "path": "林业和草原/法律法规/05-政策性文件/关于加强生态保护红线管理的通知（试行）.docx",
       "format": "docx",
-      "size": 25465,
-      "source": "全国人大法律法规数据库",
+      "size": 41059,
+      "source": "阜宁县自然资源和规划局",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3244,11 +3244,11 @@
       "date": "20221213",
       "path": "林业和草原/法律法规/05-政策性文件/关于将森林植被恢复费、草原植被恢复费划转税务部门征收的通知.docx",
       "format": "docx",
-      "size": 19936,
-      "source": "全国人大法律法规数据库",
+      "size": 38148,
+      "source": "贵州省税务局",
       "npc_id": "ff8080816f3cbb3c016f412396fc1973",
-      "matched_title": "征收教育费附加的暂行规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3258,11 +3258,11 @@
       "date": "20240521",
       "path": "林业和草原/法律法规/05-政策性文件/关于落实深化集体林权制度改革要求规范高效做好林权类不动产登记工作的通知.docx",
       "format": "docx",
-      "size": 22846,
-      "source": "全国人大法律法规数据库",
+      "size": 39828,
+      "source": "林草局官网",
       "npc_id": "ff8081817a389105017a5034137d131c",
-      "matched_title": "安徽省林权管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3272,11 +3272,11 @@
       "date": "20210913",
       "path": "林业和草原/法律法规/05-政策性文件/关于规范林木采挖移植管理的通知.docx",
       "format": "docx",
-      "size": 15943,
-      "source": "全国人大法律法规数据库",
+      "size": 39235,
+      "source": "林草局官网",
       "npc_id": "ff8081818c24e05b018c474528a762a3",
-      "matched_title": "桂林市禁止乱挖滥采砂石土矿产资源规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3286,11 +3286,11 @@
       "date": "20200603",
       "path": "林业和草原/法律法规/05-政策性文件/关于进一步规范林权类不动产登记做好林权登记与林业管理衔接的通知.docx",
       "format": "docx",
-      "size": 22846,
-      "source": "全国人大法律法规数据库",
+      "size": 40624,
+      "source": "林草局官网",
       "npc_id": "ff8081817a389105017a5034137d131c",
-      "matched_title": "安徽省林权管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3314,11 +3314,11 @@
       "date": "20260122",
       "path": "林业和草原/法律法规/05-政策性文件/国家林业和草原局 国家能源局关于支持风电开发建设规范使用林地草地有关工作的通知.docx",
       "format": "docx",
-      "size": 20840,
-      "source": "全国人大法律法规数据库",
+      "size": 38785,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3e98bd016f41ff6cdd029f",
-      "matched_title": "关于国家机关工作人员福利费掌管使用的暂行规定",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3370,11 +3370,11 @@
       "date": "20231122",
       "path": "林业和草原/法律法规/05-政策性文件/国家林业和草原局关于做好退耕还林还草提质增效工作的通知.docx",
       "format": "docx",
-      "size": 25311,
-      "source": "全国人大法律法规数据库",
+      "size": 39995,
+      "source": "林草局官网",
       "npc_id": "ff8080816f3e98bd016f425a4b32054c",
-      "matched_title": "退耕还林条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3398,11 +3398,11 @@
       "date": "20250401",
       "path": "林业和草原/法律法规/05-政策性文件/国家林业和草原局关于印发《集体林地经营权流转管理办法》的通知.docx",
       "format": "docx",
-      "size": 25465,
-      "source": "全国人大法律法规数据库",
+      "size": 40068,
+      "source": "林草局官网",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3412,11 +3412,11 @@
       "date": "20221102",
       "path": "林业和草原/法律法规/05-政策性文件/国家林业和草原局关于规范国家重点保护野生植物采集管理的通知.docx",
       "format": "docx",
-      "size": 25465,
-      "source": "全国人大法律法规数据库",
+      "size": 38884,
+      "source": "林草局官网",
       "npc_id": "402881e46000e2790160018376e3063b",
-      "matched_title": "最高人民法院印发《关于规范人民法院再审立案的若干意见（试行）》的通知",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3510,11 +3510,11 @@
       "date": "20260305",
       "path": "林业和草原/法律法规/05-政策性文件/自然资源部国家林业和草原局关于进一步做好自然资源要素保障的通知.docx",
       "format": "docx",
-      "size": 17729,
-      "source": "全国人大法律法规数据库",
+      "size": 41824,
+      "source": "湖北省自然资源厅",
       "npc_id": "ff808181971b83ab0197c3abf12339d3",
-      "matched_title": "江西省自然资源监督检查条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3524,11 +3524,11 @@
       "date": "20010601",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国主要林木目录（第一批）.docx",
       "format": "docx",
-      "size": 43261,
-      "source": "全国人大法律法规数据库",
+      "size": 40210,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "2c909fdd678bf17901678bf59eb80037",
-      "matched_title": "中华人民共和国宪法（1982年）",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3538,11 +3538,11 @@
       "date": "20160920",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国主要林木目录（第二批）.docx",
       "format": "docx",
-      "size": 43261,
-      "source": "全国人大法律法规数据库",
+      "size": 43758,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "2c909fdd678bf17901678bf59eb80037",
-      "matched_title": "中华人民共和国宪法（1982年）",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3552,11 +3552,11 @@
       "date": "19990422",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林业部分）（第一批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37027,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3566,11 +3566,11 @@
       "date": "20030101",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林业部分）（第三批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37311,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3580,11 +3580,11 @@
       "date": "20000202",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林业部分）（第二批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37165,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3594,11 +3594,11 @@
       "date": "20130401",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林业部分）（第五批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 39275,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3608,11 +3608,11 @@
       "date": "20161130",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林业部分）（第六批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37095,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3622,11 +3622,11 @@
       "date": "20041101",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林业部分）（第四批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37475,
+      "source": "LawRefBook 法律法规库",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3636,11 +3636,11 @@
       "date": "20260101",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林草部分第十批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37673,
+      "source": "林草局官网",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3650,11 +3650,11 @@
       "date": "20210101",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林草部分）（第七批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 38553,
+      "source": "林草局官网",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3664,11 +3664,11 @@
       "date": "20240201",
       "path": "林业和草原/法律法规/06-名录/中华人民共和国植物新品种保护名录（林草部分）（第九批）.docx",
       "format": "docx",
-      "size": 26885,
-      "source": "全国人大法律法规数据库",
+      "size": 37445,
+      "source": "林草局官网",
       "npc_id": "ff808181971b86bf0197ca7d3a3a3774",
-      "matched_title": "中华人民共和国植物新品种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3706,11 +3706,11 @@
       "date": "20250313",
       "path": "林业和草原/法律法规/06-名录/国家储备林树种目录（2025年版）.docx",
       "format": "docx",
-      "size": 24183,
-      "source": "全国人大法律法规数据库",
+      "size": 46729,
+      "source": "林草局官网",
       "npc_id": "4028abcc6127779301612847d95506e9",
-      "matched_title": "云南省珍贵树种保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3720,11 +3720,11 @@
       "date": "20210719",
       "path": "林业和草原/法律法规/06-名录/国家林业和草原局首次公布主要草种目录.docx",
       "format": "docx",
-      "size": 25282,
-      "source": "全国人大法律法规数据库",
+      "size": 40828,
+      "source": "首都之窗",
       "npc_id": "ff8081817ab22b8a017abd5ad286057a",
-      "matched_title": "中华人民共和国草原法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3734,11 +3734,11 @@
       "date": "20210201",
       "path": "林业和草原/法律法规/06-名录/国家重点保护野生动物名录.docx",
       "format": "docx",
-      "size": 27060,
-      "source": "全国人大法律法规数据库",
+      "size": 53630,
+      "source": "维基百科",
       "npc_id": "ff80818185567186018562ddd6a70690",
-      "matched_title": "中华人民共和国野生动物保护法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3748,11 +3748,11 @@
       "date": "20210907",
       "path": "林业和草原/法律法规/06-名录/国家重点保护野生植物名录.docx",
       "format": "docx",
-      "size": 17696,
-      "source": "全国人大法律法规数据库",
+      "size": 50000,
+      "source": "林草局官网",
       "npc_id": "ff8081819ff54a6401a040df17a47f02",
-      "matched_title": "河南省野生植物保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3762,11 +3762,11 @@
       "date": null,
       "path": "林业和草原/法律法规/06-名录/国际重要湿地名录.docx",
       "format": "docx",
-      "size": 18846,
-      "source": "全国人大法律法规数据库",
+      "size": 38334,
+      "source": "维基百科",
       "npc_id": "ff8081819ff541ea01a061075dde050f",
-      "matched_title": "常德市西洞庭湖国际重要湿地保护条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3776,11 +3776,11 @@
       "date": "20230623",
       "path": "林业和草原/法律法规/06-名录/有重要生态、科学、社会价值的陆生野生动物名录.docx",
       "format": "docx",
-      "size": 24214,
-      "source": "全国人大法律法规数据库",
+      "size": 74831,
+      "source": "林草局官网公告（佛山自然资源局镜像 PDF，文本层）",
       "npc_id": "016c39ca7739492cab1fe3aef22941c7",
-      "matched_title": "中华人民共和国社会救助法",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3790,11 +3790,11 @@
       "date": "20190505",
       "path": "林业和草原/法律法规/06-名录/林木良种名录.docx",
       "format": "docx",
-      "size": 17974,
-      "source": "全国人大法律法规数据库",
+      "size": 63746,
+      "source": "林草局官网",
       "npc_id": "ff80818199e72d6e019a14272f4b6784",
-      "matched_title": "山西省林木种子条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
@@ -3804,11 +3804,11 @@
       "date": "20260305",
       "path": "林业和草原/法律法规/06-名录/濒危野生动植物种国际贸易公约（CITES）附录（2026年版）.docx",
       "format": "docx",
-      "size": 18799,
-      "source": "全国人大法律法规数据库",
+      "size": 69262,
+      "source": "CITES官网",
       "npc_id": "ff8080816f3cbb3c016f4135f8461d3a",
-      "matched_title": "中华人民共和国濒危野生动植物进出口管理条例",
-      "status": "pending"
+      "matched_title": null,
+      "status": "uploaded"
     },
     {
       "system": "B",
